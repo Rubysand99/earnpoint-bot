@@ -1,0 +1,1 @@
+# earnpoint-bot
