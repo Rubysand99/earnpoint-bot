@@ -11,8 +11,8 @@ const client = new Client({
 
 const API = "https://website-kiemtien.onrender.com";
 
-const CODE_CHANNEL_ID = "ID_KENH_CODE";
-const LOG_CHANNEL_ID = "ID_KENH_LOG";
+const CODE_CHANNEL_ID = "1464999465294369035";
+const LOG_CHANNEL_ID = "1482234024868053083";
 
 client.on("ready", ()=>{
   console.log("🤖 Bot online");
